@@ -1,0 +1,45 @@
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\ApplicationInsights.config
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\CSMP V2.dll.config
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\CSMP V2.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\CSMP V2.pdb
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Antlr3.Runtime.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.AI.DependencyCollector.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.AI.Web.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.AI.WindowsServer.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.ApplicationInsights.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.Web.Infrastructure.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Newtonsoft.Json.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\PDAnozaUtilities.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.Helpers.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.Mvc.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.Optimization.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.Razor.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.WebPages.Deployment.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.WebPages.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.WebPages.Razor.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\WebGrease.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\MySql.Data.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\PDAnozaUtilities.pdb
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.Helpers.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.Mvc.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.Optimization.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.Razor.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.WebPages.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.WebPages.Deployment.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\System.Web.WebPages.Razor.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Antlr3.Runtime.pdb
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Newtonsoft.Json.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.ApplicationInsights.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.AI.DependencyCollector.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.AI.WindowsServer.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\bin\Microsoft.AI.Web.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\obj\Debug\CSMP V2.csprojResolveAssemblyReference.cache
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\obj\Debug\CSMP V2.csproj.CoreCompileInputs.cache
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\obj\Debug\CSMP V2.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\CSMP V2\CSMP V2\obj\Debug\CSMP V2.pdb

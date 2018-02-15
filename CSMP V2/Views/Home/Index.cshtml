@@ -1,0 +1,24 @@
+﻿@model CSMP_V2.ViewModels.HomeViewModel
+
+
+<table class="table table-responsive">
+    <tr>
+        <th> Cluster </th>
+        <th> Area </th>
+    </tr>
+    <tr>
+        <td>
+            @Html.DropDownListFor(m => m.SNCList, new SelectList(Model.SNCList.AsEnumerable(), "SNCID", "SNCName"), "Select Cluster");
+        </td>
+        <td>
+            @Html.DropDownListFor(m => m.AreaList, new SelectList(Model.AreaList.AsEnumerable(), "AreaID", "AreaName"), "Select Area");
+        </td>
+    <tr>
+</table>
+<script>
+    $(document).ready(function () {
+        $('#SNCList').change(function () {
+            alert("value changed. New value is " + $(this).val());
+        });
+    });
+</script>
